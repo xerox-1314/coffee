@@ -1,10 +1,11 @@
-import concurrent.futures
 import sys
 import sqlite3 as sq
-from PyQt5 import uic
+from main_ui import Ui_MainWindow
+from edit_coffee_ui import Ui_Edit_Form
+from add_coffee_ui import Ui_Add_Form
 from PyQt5.QtWidgets import QMainWindow, QApplication, QTableWidgetItem, QWidget
 
-connect = sq.connect('coffee_db.db')
+connect = sq.connect('data/coffee_db.db')
 cursor = connect.cursor()
 
 def get_coffee():
@@ -22,10 +23,10 @@ def add(sort, number_roast, type, taste, price, package):
     connect.commit()
 
 
-class CoffeeView(QMainWindow):
+class CoffeeView(QMainWindow, Ui_MainWindow):
     def __init__(self):
         super().__init__()
-        uic.loadUi('main.ui', self)
+        self.setupUi(self)
         self.setWindowTitle('Coffee Display')
         self.change_dict = ['Сорт', 'Степень обжарки', 'Молотый/В зернах', 'Описание вкуса', 'Цена', 'Объем упаковки']
         self.edit_but.clicked.connect(self.edit)
@@ -55,10 +56,10 @@ class CoffeeView(QMainWindow):
         self.view_table()
 
 
-class EditCoffee(QWidget):
+class EditCoffee(QWidget, Ui_Edit_Form):
     def __init__(self):
         super().__init__()
-        uic.loadUi('EditCoffeeForm.ui', self)
+        self.setupUi(self)
         self.setWindowTitle('Coffee Edit')
         self.change_dict = ['Сорт', 'Степень обжарки', 'Молотый/В зернах', 'Описание вкуса', 'Цена', 'Объем упаковки']
         self.columns_list = ['sort', 'number_roast', 'type', 'taste', 'price', 'package']
@@ -89,10 +90,10 @@ class EditCoffee(QWidget):
         self.close()
 
 
-class AddCoffee(QWidget):
+class AddCoffee(QWidget, Ui_Add_Form):
     def __init__(self):
         super().__init__()
-        uic.loadUi('addCoffeeForm.ui', self)
+        self.setupUi(self)
         self.setWindowTitle('Coffee Add')
         self.type.addItems(['Молотый', 'В зернах'])
         self.ok_but.clicked.connect(self.ok)
