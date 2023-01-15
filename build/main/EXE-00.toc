@@ -1,0 +1,327 @@
+('D:\\Program Files\\pythonProject5\\dist\\main.exe',
+ False,
+ False,
+ False,
+ 'd:\\program '
+ 'files\\pythonproject5\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity type="win32" name="main" processorArchitecture="amd64" version="1.0.0.0"/><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" language="*" processorArchitecture="*" version="6.0.0.0" publicKeyToken="6595b64144ccf1df"/></dependentAssembly></dependency><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/></application></compatibility><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware></windowsSettings></application></assembly>',
+ True,
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'D:\\Program Files\\pythonProject5\\build\\main\\main.pkg',
+ [('PYZ-00.pyz',
+   'D:\\Program Files\\pythonProject5\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Program Files\\pythonProject5\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Program '
+   'Files\\pythonProject5\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Program '
+   'Files\\pythonProject5\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Program '
+   'Files\\pythonProject5\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Program '
+   'Files\\pythonProject5\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Program '
+   'Files\\pythonProject5\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'D:\\Program '
+   'Files\\pythonProject5\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Program '
+   'Files\\pythonProject5\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('main', 'D:\\Program Files\\pythonProject5\\main.py', 'PYSOURCE'),
+  ('VCRUNTIME140.dll', 'C:\\PYTHON\\VCRUNTIME140.dll', 'BINARY'),
+  ('python310.dll', 'C:\\PYTHON\\python310.dll', 'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'D:\\Program '
+   'Files\\pythonProject5\\venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'D:\\Program '
+   'Files\\pythonProject5\\venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libEGL.dll',
+   'D:\\Program '
+   'Files\\pythonProject5\\venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'D:\\Program '
+   'Files\\pythonProject5\\venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('_decimal.pyd', 'C:\\PYTHON\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'C:\\PYTHON\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\PYTHON\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\PYTHON\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('select.pyd', 'C:\\PYTHON\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'C:\\PYTHON\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('unicodedata.pyd', 'C:\\PYTHON\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('_ssl.pyd', 'C:\\PYTHON\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('PyQt5\\QtWidgets.pyd',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtCore.pyd',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtGui.pyd',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5\\sip.cp310-win_amd64.pyd',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\sip.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd', 'C:\\PYTHON\\DLLs\\_sqlite3.pyd', 'EXTENSION'),
+  ('PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll', 'C:\\PYTHON\\VCRUNTIME140_1.dll', 'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'D:\\Program '
+   'Files\\pythonProject5\\venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll', 'C:\\PYTHON\\DLLs\\libcrypto-1_1.dll', 'BINARY'),
+  ('libssl-1_1.dll', 'C:\\PYTHON\\DLLs\\libssl-1_1.dll', 'BINARY'),
+  ('python3.dll', 'C:\\PYTHON\\python3.dll', 'BINARY'),
+  ('sqlite3.dll', 'C:\\PYTHON\\DLLs\\sqlite3.dll', 'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Program Files\\pythonProject5\\build\\main\\base_library.zip',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'D:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1673795233,
+ [('runw.exe',
+   'd:\\program '
+   'files\\pythonproject5\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')])
